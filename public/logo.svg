@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0ea5a4"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <circle cx="20" cy="20" r="18" fill="url(#g)"/>
+    <path d="M20 8 v10 m0 0 l8 12 m-8 -12 l-8 12" stroke="white" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="20" cy="18" r="2.5" fill="white"/>
+  </g>
+  <text x="46" y="16" fill="#0f172a" font-size="12" font-family="Inter, system-ui, sans-serif" font-weight="700">Sumbul Fatima</text>
+  <text x="46" y="32" fill="#334155" font-size="10" font-family="Inter, system-ui, sans-serif">Chemistry Classes</text>
+</svg>
+
