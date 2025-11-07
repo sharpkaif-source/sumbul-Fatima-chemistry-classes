@@ -43,7 +43,6 @@ export default function ContactPage() {
             <p className="mt-2 text-slate-700">Get in touch for admissions and queries.</p>
 
             {/* Client form renders validation and banners; server action handles DB */}
-            {/* @ts-expect-error pass server action to client */}
             <ContactForm action={submitAction} initialState={initial} />
         </section>
     );
